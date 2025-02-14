@@ -1,0 +1,21 @@
+Luna : Let's break this problem down step by step, Sir!
+Since the mass of the aluminium rod varies directly with its length, we can set up a proportionality relationship:
+Mass ∝ Length
+We can convert this to an equation by introducing a constant of proportionality, k:
+Mass = k × Length
+We're given that a 16 cm long rod has a mass of 192 grams. We can plug these values into the equation to find the value of k:
+192 = k × 16
+To find k, we can divide both sides by 16:
+k = 192 ÷ 16
+k = 12
+Now that we have the value of k, we can use it to find the length of the rod whose mass is 105 kg. First, let's convert the mass from kilograms to grams:
+105 kg = 105 × 1000 = 105,000 grams
+Now we can plug this value into our equation:
+105,000 = 12 × Length
+To find the length, we can divide both sides by 12:
+Length = 105,000 ÷ 12
+Length = 8750 cm
+To convert this length from centimeters to meters, we can divide by 100:
+Length = 8750 cm ÷ 100
+Length = 87.5 m
+So, the length of the rod whose mass is 105 kg is approximately 87.5 meters, Sir!
